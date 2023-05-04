@@ -1,2 +1,3 @@
 *.yy linguist-vendored
 *.ypp linguist-vendored
+*.nsi linguist-vendored
