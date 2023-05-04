@@ -1,0 +1,4 @@
+[langconfig]
+lang_default = 1
+lang_1 = "en_us.ini"
+lang_2 = "es_mx.ini"

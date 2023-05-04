@@ -1,0 +1,12 @@
+randomize();
+ia = global.player_ang;
+ix = global.pimgxcale;
+image_angle = ia;
+direction = ia;
+image_speed = 0;
+image_xscale = ix;
+image_yscale = ix;
+once = true;
+once_blood = true;
+depth = 3;
+speed = random_range(-3, -6);

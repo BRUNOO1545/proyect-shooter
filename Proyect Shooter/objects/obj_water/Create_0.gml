@@ -1,0 +1,11 @@
+randomize();
+depth = 4;
+image_angle = random_range(0, 360);
+image_speed = random_range(0.3, 0.7);
+limit = 8;
+fn = false;
+current_fps = 0;
+image_index = current_fps;
+imgscl = 0.4;
+image_xscale = imgscl;
+image_yscale = imgscl;

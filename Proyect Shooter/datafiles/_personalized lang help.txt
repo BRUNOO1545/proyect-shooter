@@ -1,0 +1,11 @@
+if you wanna make your own personalized language, do this:
+
+1) open the location "[game install root]/lang/"
+2) copy "en_us.ini" an paste.
+3) edit the data with your language.
+4) change the name of your file like this, for example: english > en, united states > us = en_us.
+5) open ".langconfig" and edit the secction "lang_1", change it for your file, for example, "es_ar" and use ".ini" at end.
+6) save the changes on ".langconfig", open the game and select language 1.
+7) [optional] share the file with the developers to inplement that language in the game.
+
+Note: Use # for enter.
